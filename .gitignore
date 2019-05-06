@@ -1,22 +1,7 @@
-﻿Skip to content
- 
-Search or jump to…
+﻿# Personal
+tensorflow/*
+tensorflow/
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Edwardbafford 
-2,773
-83,199 40,379 github/gitignore
- Code  Pull requests 96  Projects 0  Insights
-gitignore/Python.gitignore
-@JarryShaw JarryShaw Add ignore rules for Pipenv (#2977)
-7079791 on Mar 11
-@arcresu @shiftkey @Lucretiel @Harrison-G @jwg4 @GabrielC101 @Metallicow @misaelnieto @pmsosa @svkampen @vltr @matheussl @hugovk @ghisvail @EvandroLG @DSIW @amigcamel @toanant @2Cubed @brettcannon @weinihou @Visgean @nvie @skuschel @sigo @sethmlarson
-124 lines (100 sloc)  1.66 KB
-    
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
